@@ -10,7 +10,7 @@ The project is organized as follows:
 
 - **SQL Scripts**:
   - `schema.sql`: Defines the structure of the database tables.
-  - `table.sql`: Populates the tables with relevant data.
+  - `table_database.sql`: Populates the tables with relevant data.
   - `social_media_analysis.sql`: Contains the SQL queries used for analysis.
 - **README.md**: This file offers a project overview and instructions on how to run the analyses.
 
